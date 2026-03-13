@@ -1,0 +1,25 @@
+rules:
+  - name: "Vcc 必須接 0.1uF 到 GND"
+    type: "net_cap_to_gnd"
+    net: "Vcc"
+    value: "0.1uF"
+    tolerance: "10%"
+
+  - name: "PWM pin 必須 floating"
+    type: "pin_floating"
+    pins:
+      - "U1.PWM"
+      - "U2.PWM"
+
+  - name: "VDD 與 VDRV 之間必須有 1Ω"
+    type: "pin_to_pin_resistor"
+    pin1: "U1.VDD"
+    pin2: "U1.VDRV"
+    value: "1"
+
+  - name: "VDD / VDRV 各接 0.1uF 到 GND"
+    type: "pin_cap_to_gnd"
+    pins:
+      - "U1.VDD"
+      - "U1.VDRV"
+    value: "0.1uF"
