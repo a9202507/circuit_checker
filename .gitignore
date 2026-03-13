@@ -6,3 +6,10 @@ __pycache__/
 dist/
 build/
 report.html
+.DS_Store
+.claude/
+
+# Frontend
+circuit_checker_ui/node_modules/
+circuit_checker_ui/dist/
+circuit_checker_ui/.env.local

@@ -1,0 +1,26 @@
+{
+  "name": "circuit-checker-ui",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "api:dev": "python3 -m uvicorn api.main:app --reload --host 0.0.0.0 --port 8000",
+    "api:build": "python3 -m pip install fastapi uvicorn pyyaml python-multipart"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.2.0",
+    "vite": "^5.0.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  }
+}

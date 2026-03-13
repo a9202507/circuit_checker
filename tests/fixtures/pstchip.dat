@@ -1,0 +1,56 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Test fixture - minimal pstchip.dat }
+primitive 'CAP_0603_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='0.1uF-0603';
+    JEDEC_TYPE='IR_C0603';
+    VALUE='0.1uF';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+primitive 'RES_0603_1R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='1R-0603';
+    JEDEC_TYPE='IR_R0603';
+    VALUE='1';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+primitive 'IC_TDM22545T';
+  pin
+    'VDD':
+      PIN_NUMBER='(A1)';
+      PINUSE='PWR';
+    'VDRV':
+      PIN_NUMBER='(A2)';
+      PINUSE='PWR';
+    'PWM':
+      PIN_NUMBER='(B1)';
+      PINUSE='IN';
+    'GND':
+      PIN_NUMBER='(C1)';
+      PINUSE='GND';
+  end_pin;
+  body
+    PART_NAME='TDM22545T';
+    JEDEC_TYPE='QFN32';
+    VALUE='';
+    CLASS='IC';
+  end_body;
+end_primitive;
