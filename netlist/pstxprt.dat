@@ -1,0 +1,2034 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 22.1.0 d001Mar-06-2026 at 09:16:50 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS';
+ POST_TIME='Oct  6 2022 20:42:06';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 '1UF-0603-25V-X5R-10%_IR_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1568466@SMD_CERAMIC.1UF-0603-25V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1568466@smd_ceramic.\1uf-0603-25v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1568466@smd_ceramic.\1uf-0603-25v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(125,50)',
+ SECTION='';
+
+PART_NAME
+ C13 '330UF-2917-20%-16V-VISHAY_IR_DCASE_H4P2_330UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1996625@SMD_POLYMER.330UF-2917-20%-16V-VISHAY.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1996625@smd_polymer.\330uf-2917-20%-16v-vishay.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1996625@smd_polymer.\330uf-2917-20%-16v-vishay.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(225,90)',
+ SECTION='';
+
+PART_NAME
+ C1323 '1UF-0402-16V-X6S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046600@SMD_CERAMIC.1UF-0402-16V-X6S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046600@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046600@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(105,720)',
+ SECTION='';
+
+PART_NAME
+ C1324 '0.1UF-0603-16V-X7R-10%_IR_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2071726@SMD_CERAMIC.0.1UF-0603-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2071726@smd_ceramic.\0.1uf-0603-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2071726@smd_ceramic.\0.1uf-0603-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,335)',
+ SECTION='';
+
+PART_NAME
+ C1325 '0.1UF-0603-16V-X7R-10%_IR_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2071543@SMD_CERAMIC.0.1UF-0603-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2071543@smd_ceramic.\0.1uf-0603-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2071543@smd_ceramic.\0.1uf-0603-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(865,60)',
+ SECTION='';
+
+PART_NAME
+ C1326 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_220 PF_CC0402KRX7R7BB221':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16793704@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16793704@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16793704@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,380)',
+ SECTION='';
+
+PART_NAME
+ C1327 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_220 PF_CC0402KRX7R7BB221':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16793726@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16793726@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16793726@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,420)',
+ SECTION='';
+
+PART_NAME
+ C1328 '10NF-0603-50V-X7R-10%_IR_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16793864@SMD_CERAMIC.10NF-0603-50V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16793864@smd_ceramic.\10nf-0603-50v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16793864@smd_ceramic.\10nf-0603-50v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,340)',
+ SECTION='';
+
+PART_NAME
+ C1329 '22UF-0805-6.3V-X5R-20%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16816054@SMD_CERAMIC.22UF-0805-6.3V-X5R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16816054@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16816054@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,470)',
+ SECTION='';
+
+PART_NAME
+ C1330 '22UF-0805-6.3V-X5R-20%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16817219@SMD_CERAMIC.22UF-0805-6.3V-X5R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16817219@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16817219@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,180)',
+ SECTION='';
+
+PART_NAME
+ C1331 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_0.1UF_C0402C104M8PAC7867':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16843635@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16843635@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins16843635@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,150)',
+ SECTION='';
+
+PART_NAME
+ C1332 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_0.1UF_C0402C104M8PAC7867':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16843643@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16843643@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins16843643@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,150)',
+ SECTION='';
+
+PART_NAME
+ C1333 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_0.1UF_C0402C104M8PAC7867':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16843651@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16843651@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins16843651@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,390)',
+ SECTION='';
+
+PART_NAME
+ C1334 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_0.1UF_C0402C104M8PAC7867':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16843659@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16843659@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins16843659@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,390)',
+ SECTION='';
+
+PART_NAME
+ C14 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1924538@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1924538@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1924538@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,310)',
+ SECTION='';
+
+PART_NAME
+ C15 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1925388@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1925388@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1925388@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,310)',
+ SECTION='';
+
+PART_NAME
+ C154 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_100PF_500R07N101JV4T':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16791459@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16791459@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16791459@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,540)',
+ SECTION='';
+
+PART_NAME
+ C155 'CAPACITOR-GENERIC_ODB_IR_C0402_DISCRETE_100PF_500R07N101JV4T':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16791422@SMD_CERAMIC.CAPACITOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16791422@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16791422@smd_ceramic.\capacitor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,470)',
+ SECTION='';
+
+PART_NAME
+ C16 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1925580@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1925580@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1925580@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,310)',
+ SECTION='';
+
+PART_NAME
+ C168 '1UF-0402-10V-X7S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2065059@SMD_CERAMIC.1UF-0402-10V-X7S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2065059@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2065059@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(145,265)',
+ SECTION='';
+
+PART_NAME
+ C169 '1UF-0402-16V-X6S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1960890@SMD_CERAMIC.1UF-0402-16V-X6S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1960890@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1960890@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,800)',
+ SECTION='';
+
+PART_NAME
+ C17 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1925768@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1925768@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1925768@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,310)',
+ SECTION='';
+
+PART_NAME
+ C170 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1963541@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1963541@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1963541@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,310)',
+ SECTION='';
+
+PART_NAME
+ C171 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1963557@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1963557@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1963557@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,310)',
+ SECTION='';
+
+PART_NAME
+ C172 '1UF-0402-10V-X7S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2063522@SMD_CERAMIC.1UF-0402-10V-X7S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2063522@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2063522@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,290)',
+ SECTION='';
+
+PART_NAME
+ C173 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1969972@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1969972@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1969972@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,70)',
+ SECTION='';
+
+PART_NAME
+ C174 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1969988@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1969988@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1969988@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,70)',
+ SECTION='';
+
+PART_NAME
+ C175 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1970004@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1970004@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1970004@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,70)',
+ SECTION='';
+
+PART_NAME
+ C176 '22UF-1206-6.3V-X5R-10%_IR_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1970020@SMD_CERAMIC.22UF-1206-6.3V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1970020@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1970020@smd_ceramic.\22uf-1206-6.3v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,70)',
+ SECTION='';
+
+PART_NAME
+ C177 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1970036@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1970036@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1970036@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,70)',
+ SECTION='';
+
+PART_NAME
+ C178 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1970052@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1970052@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1970052@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,70)',
+ SECTION='';
+
+PART_NAME
+ C179 '1UF-0402-10V-X7S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2069477@SMD_CERAMIC.1UF-0402-10V-X7S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2069477@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2069477@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(145,445)',
+ SECTION='';
+
+PART_NAME
+ C18 '470UF-DCASE3.8MM-6.3V-10MOHM-PO_IR_DCASE_H2P8_470UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1888951@SMD_POLYMER.470UF-DCASE3.8MM-6.3V-10MOHM-PO.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1888951@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1888951@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,395)',
+ SECTION='';
+
+PART_NAME
+ C180 '1UF-0402-10V-X7S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1973614@SMD_CERAMIC.1UF-0402-10V-X7S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1973614@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1973614@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(265,885)',
+ SECTION='';
+
+PART_NAME
+ C181 '22UF-0805-16V-X5R-10%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1976193@SMD_CERAMIC.22UF-0805-16V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1976193@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1976193@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,800)',
+ SECTION='';
+
+PART_NAME
+ C182 '22UF-1210-25V-X7R-20%_IR_C1210_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1977411@SMD_CERAMIC.22UF-1210-25V-X7R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1977411@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1977411@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,800)',
+ SECTION='';
+
+PART_NAME
+ C183 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982866@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982866@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982866@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,680)',
+ SECTION='';
+
+PART_NAME
+ C184 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982882@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982882@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982882@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,680)',
+ SECTION='';
+
+PART_NAME
+ C185 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982898@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982898@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982898@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,680)',
+ SECTION='';
+
+PART_NAME
+ C186 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982914@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982914@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982914@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,680)',
+ SECTION='';
+
+PART_NAME
+ C187 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982930@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982930@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982930@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,680)',
+ SECTION='';
+
+PART_NAME
+ C188 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982946@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982946@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982946@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,680)',
+ SECTION='';
+
+PART_NAME
+ C189 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982962@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982962@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982962@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,680)',
+ SECTION='';
+
+PART_NAME
+ C190 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982978@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982978@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982978@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,680)',
+ SECTION='';
+
+PART_NAME
+ C191 '0.1UF-0402-16V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1982994@SMD_CERAMIC.0.1UF-0402-16V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1982994@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1982994@smd_ceramic.\0.1uf-0402-16v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,680)',
+ SECTION='';
+
+PART_NAME
+ C2 '0.1UF-0402-25V-X7R-10%_IR_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784274@SMD_CERAMIC.0.1UF-0402-25V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784274@smd_ceramic.\0.1uf-0402-25v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784274@smd_ceramic.\0.1uf-0402-25v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(185,50)',
+ SECTION='';
+
+PART_NAME
+ C20 '470UF-DCASE3.8MM-6.3V-10MOHM-PO_IR_DCASE_H2P8_470UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889133@SMD_POLYMER.470UF-DCASE3.8MM-6.3V-10MOHM-PO.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889133@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889133@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(575,395)',
+ SECTION='';
+
+PART_NAME
+ C21 '470UF-DCASE3.8MM-6.3V-10MOHM-PO_IR_DCASE_H2P8_470UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889211@SMD_POLYMER.470UF-DCASE3.8MM-6.3V-10MOHM-PO.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889211@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889211@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(635,395)',
+ SECTION='';
+
+PART_NAME
+ C22 '22UF-0805-16V-X5R-10%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890321@SMD_CERAMIC.22UF-0805-16V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890321@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890321@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,800)',
+ SECTION='';
+
+PART_NAME
+ C23 '22UF-0805-16V-X5R-10%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890115@SMD_CERAMIC.22UF-0805-16V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890115@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890115@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,800)',
+ SECTION='';
+
+PART_NAME
+ C24 '22UF-0805-16V-X5R-10%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890361@SMD_CERAMIC.22UF-0805-16V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890361@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890361@smd_ceramic.\22uf-0805-16v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,800)',
+ SECTION='';
+
+PART_NAME
+ C25 '22UF-1210-25V-X7R-20%_IR_C1210_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889969@SMD_CERAMIC.22UF-1210-25V-X7R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889969@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1889969@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,800)',
+ SECTION='';
+
+PART_NAME
+ C26 '22UF-1210-25V-X7R-20%_IR_C1210_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890629@SMD_CERAMIC.22UF-1210-25V-X7R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890629@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890629@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,800)',
+ SECTION='';
+
+PART_NAME
+ C27 '22UF-1210-25V-X7R-20%_IR_C1210_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890849@SMD_CERAMIC.22UF-1210-25V-X7R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890849@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890849@smd_ceramic.\22uf-1210-25v-x7r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,800)',
+ SECTION='';
+
+PART_NAME
+ C28 '1UF-0402-16V-X6S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1960874@SMD_CERAMIC.1UF-0402-16V-X6S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1960874@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1960874@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,800)',
+ SECTION='';
+
+PART_NAME
+ C29 '10UF-0603-16V-X6S-20%_IR_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890301@SMD_CERAMIC.10UF-0603-16V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890301@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890301@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,800)',
+ SECTION='';
+
+PART_NAME
+ C3 '1UF-0603-25V-X6S-20%_IR_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887637@SMD_CERAMIC.1UF-0603-25V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887637@smd_ceramic.\1uf-0603-25v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887637@smd_ceramic.\1uf-0603-25v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(85,50)',
+ SECTION='';
+
+PART_NAME
+ C30 '10UF-0603-16V-X6S-20%_IR_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890095@SMD_CERAMIC.10UF-0603-16V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890095@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890095@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,800)',
+ SECTION='';
+
+PART_NAME
+ C304 '10UF-0805-16V-X5R-10%_IR_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2003163@SMD_CERAMIC.10UF-0805-16V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2003163@smd_ceramic.\10uf-0805-16v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2003163@smd_ceramic.\10uf-0805-16v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,650)',
+ SECTION='';
+
+PART_NAME
+ C305 '10UF-0805-16V-X5R-10%_IR_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2008042@SMD_CERAMIC.10UF-0805-16V-X5R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2008042@smd_ceramic.\10uf-0805-16v-x5r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2008042@smd_ceramic.\10uf-0805-16v-x5r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(345,650)',
+ SECTION='';
+
+PART_NAME
+ C306 '22UF-0805-6.3V-X5R-20%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061641@SMD_CERAMIC.22UF-0805-6.3V-X5R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061641@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061641@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(965,470)',
+ SECTION='';
+
+PART_NAME
+ C308 '470UF-DCASE3.8MM-6.3V-10MOHM-PO_IR_DCASE_H2P8_470UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2042627@SMD_POLYMER.470UF-DCASE3.8MM-6.3V-10MOHM-PO.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2042627@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2042627@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,155)',
+ SECTION='';
+
+PART_NAME
+ C309 '470UF-DCASE3.8MM-6.3V-10MOHM-PO_IR_DCASE_H2P8_470UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2042643@SMD_POLYMER.470UF-DCASE3.8MM-6.3V-10MOHM-PO.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2042643@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2042643@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(575,155)',
+ SECTION='';
+
+PART_NAME
+ C31 '10UF-0603-16V-X6S-20%_IR_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890935@SMD_CERAMIC.10UF-0603-16V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890935@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890935@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,800)',
+ SECTION='';
+
+PART_NAME
+ C310 '470UF-DCASE3.8MM-6.3V-10MOHM-PO_IR_DCASE_H2P8_470UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2042661@SMD_POLYMER.470UF-DCASE3.8MM-6.3V-10MOHM-PO.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2042661@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2042661@smd_polymer.\470uf-dcase3.8mm-6.3v-10mohm-po.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(635,155)',
+ SECTION='';
+
+PART_NAME
+ C311 '1UF-0402-16V-X6S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046356@SMD_CERAMIC.1UF-0402-16V-X6S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046356@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046356@smd_ceramic.\1uf-0402-16v-x6s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(105,550)',
+ SECTION='';
+
+PART_NAME
+ C32 '10UF-0603-16V-X6S-20%_IR_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1890997@SMD_CERAMIC.10UF-0603-16V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1890997@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1890997@smd_ceramic.\10uf-0603-16v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,800)',
+ SECTION='';
+
+PART_NAME
+ C35 '1UF-0402-10V-X7S-10%_IR_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2063506@SMD_CERAMIC.1UF-0402-10V-X7S-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2063506@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2063506@smd_ceramic.\1uf-0402-10v-x7s-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,290)',
+ SECTION='';
+
+PART_NAME
+ C36 '22UF-0805-6.3V-X5R-20%_IR_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061393@SMD_CERAMIC.22UF-0805-6.3V-X5R-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061393@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061393@smd_ceramic.\22uf-0805-6.3v-x5r-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(965,190)',
+ SECTION='';
+
+PART_NAME
+ C4 '1UF-0603-25V-X6S-20%_IR_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887815@SMD_CERAMIC.1UF-0603-25V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887815@smd_ceramic.\1uf-0603-25v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887815@smd_ceramic.\1uf-0603-25v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,250)',
+ SECTION='';
+
+PART_NAME
+ C50 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989753@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989753@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989753@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,510)',
+ SECTION='';
+
+PART_NAME
+ C51 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989779@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989779@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989779@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,510)',
+ SECTION='';
+
+PART_NAME
+ C52 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989805@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989805@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989805@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,510)',
+ SECTION='';
+
+PART_NAME
+ C53 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989831@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989831@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989831@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,510)',
+ SECTION='';
+
+PART_NAME
+ C54 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989857@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989857@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989857@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,510)',
+ SECTION='';
+
+PART_NAME
+ C55 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989883@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989883@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989883@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,510)',
+ SECTION='';
+
+PART_NAME
+ C56 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989909@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989909@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989909@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,510)',
+ SECTION='';
+
+PART_NAME
+ C57 '10UF-0402-4V-X6S-20%_IR_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1989935@SMD_CERAMIC.10UF-0402-4V-X6S-20%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1989935@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1989935@smd_ceramic.\10uf-0402-4v-x6s-20%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,510)',
+ SECTION='';
+
+PART_NAME
+ C59 '330UF-2917-20%-16V-VISHAY_IR_DCASE_H4P2_330UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1996641@SMD_POLYMER.330UF-2917-20%-16V-VISHAY.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1996641@smd_polymer.\330uf-2917-20%-16v-vishay.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1996641@smd_polymer.\330uf-2917-20%-16v-vishay.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(275,90)',
+ SECTION='';
+
+PART_NAME
+ C60 '330UF-2917-20%-16V-VISHAY_IR_DCASE_H4P2_330UF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1996657@SMD_POLYMER.330UF-2917-20%-16V-VISHAY.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1996657@smd_polymer.\330uf-2917-20%-16v-vishay.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1996657@smd_polymer.\330uf-2917-20%-16v-vishay.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(325,90)',
+ SECTION='';
+
+PART_NAME
+ C7 '10NF-0603-50V-X7R-10%_IR_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887835@SMD_CERAMIC.10NF-0603-50V-X7R-10%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887835@smd_ceramic.\10nf-0603-50v-x7r-10%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887835@smd_ceramic.\10nf-0603-50v-x7r-10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,680)',
+ SECTION='';
+
+PART_NAME
+ D1 'PMEG2010AEH,115-SOD123_IR_MINI2-F4-B_PMEG2010AEH,115':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887129@DIODE.PMEG2010AEH,115-SOD123.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887129@diode.\pmeg2010aeh,115-sod123.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887129@diode.\pmeg2010aeh,115-sod123.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(235,40)',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 1X2_2 PIN 100MIL SPACE_IR_JUMPER_1X2_100MIL_PWM1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2062954@CONN.HEADER 1X2_2 PIN 100MIL SPACE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2062954@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2062954@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,160)',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_VOUT1_SEN':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061409@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061409@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061409@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,190)',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_VIN_SEN_EFF':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1961989@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1961989@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1961989@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1125,800)',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 1X2_2 PIN 100MIL SPACE_IR_JUMPER_1X2_100MIL_EN2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2063132@CONN.HEADER 1X2_2 PIN 100MIL SPACE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2063132@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2063132@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,340)',
+ SECTION='';
+
+PART_NAME
+ J15 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_IOUT2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2069441@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2069441@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2069441@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(145,390)',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER-3PIN_INLINE_IR_SIP_1X3_I2C':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16823733@CONN.HEADER-3PIN_INLINE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16823733@conn.\header-3pin_inline.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16823733@conn.\header-3pin_inline.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,170)',
+ SECTION='';
+
+PART_NAME
+ J205 'HEADER-3PIN_INLINE_IR_SIP_1X3_TOUT2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16823660@CONN.HEADER-3PIN_INLINE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16823660@conn.\header-3pin_inline.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16823660@conn.\header-3pin_inline.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,310)',
+ SECTION='';
+
+PART_NAME
+ J206 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_VOUT2_SEN':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061657@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061657@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061657@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,470)',
+ SECTION='';
+
+PART_NAME
+ J207 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_VOUT1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2037372@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2037372@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2037372@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(55,330)',
+ SECTION='';
+
+PART_NAME
+ J208 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_IOUT2_SEN_SHUNT':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2074794@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2074794@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2074794@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,360)',
+ SECTION='';
+
+PART_NAME
+ J209 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_IOUT1_SEN_SHUNT':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2075391@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2075391@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2075391@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,90)',
+ SECTION='';
+
+PART_NAME
+ J210 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_IOUT1_SEN_CAP':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2072974@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2072974@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2072974@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(865,20)',
+ SECTION='';
+
+PART_NAME
+ J211 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_IOUT1_SEN_CAP':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2073192@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2073192@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2073192@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(865,305)',
+ SECTION='';
+
+PART_NAME
+ J212 'HEADER-3PIN_INLINE_IR_SIP_1X3_PWM2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16823645@CONN.HEADER-3PIN_INLINE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16823645@conn.\header-3pin_inline.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16823645@conn.\header-3pin_inline.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,390)',
+ SECTION='';
+
+PART_NAME
+ J253 '3M_SOCKET_CONN_SPD08_100PIN_IR_CONN_3M_2X50_SMT_VRM_IO_CONN 100 PIN VRM_SPD08-100-L-RB-TR':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16789097@CONN.3M_SOCKET_CONN_SPD08_100PIN.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16789097@conn.\3m_socket_conn_spd08_100pin.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16789097@conn.\3m_socket_conn_spd08_100pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,80)',
+ SECTION='';
+
+PART_NAME
+ J254 'HEADER 1X2_2 PIN 100MIL SPACE_IR_JUMPER_1X2_100MIL_PWM2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16808604@CONN.HEADER 1X2_2 PIN 100MIL SPACE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16808604@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16808604@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,400)',
+ SECTION='';
+
+PART_NAME
+ J255 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_VIN_SEN_REMOTE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16814256@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16814256@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16814256@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,800)',
+ SECTION='';
+
+PART_NAME
+ J256 'SAMTEC_EDGE_2X10_SMT_HEADER_IR_CONN_2X10_SMT_IO_CONN 20 PIN_HSEC8-110-01-S-DV-A-K-TR':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16833651@CONN.SAMTEC_EDGE_2X10_SMT_HEADER.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16833651@conn.\samtec_edge_2x10_smt_header.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins16833651@conn.\samtec_edge_2x10_smt_header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,320)',
+ SECTION='';
+
+PART_NAME
+ J257 'SAMTEC_EDGE_2X10_SMT_HEADER_IR_CONN_2X10_SMT_IO_CONN 20 PIN_HSEC8-110-01-S-DV-A-K-TR':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16833677@CONN.SAMTEC_EDGE_2X10_SMT_HEADER.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16833677@conn.\samtec_edge_2x10_smt_header.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins16833677@conn.\samtec_edge_2x10_smt_header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,90)',
+ SECTION='';
+
+PART_NAME
+ J28 'HEADER-4PIN_CPU-FAN_IR_SIP_1X4-FAN_HEADER':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2003083@CONN.HEADER-4PIN_CPU-FAN.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2003083@conn.\header-4pin_cpu-fan.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2003083@conn.\header-4pin_cpu-fan.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,520)',
+ SECTION='';
+
+PART_NAME
+ J29 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_12V_FAN_EXT':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2010392@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2010392@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2010392@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,660)',
+ SECTION='';
+
+PART_NAME
+ J30 'HEADER-4PIN_CPU-FAN_IR_SIP_1X4-FAN_HEADER':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2007974@CONN.HEADER-4PIN_CPU-FAN.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2007974@conn.\header-4pin_cpu-fan.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2007974@conn.\header-4pin_cpu-fan.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ J31 'HEADER 1X2_2 PIN 100MIL SPACE_IR_JUMPER_1X2_100MIL_VIN_JMP':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2008002@CONN.HEADER 1X2_2 PIN 100MIL SPACE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2008002@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2008002@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,620)',
+ SECTION='';
+
+PART_NAME
+ J32 'HEADER-3PIN_INLINE_IR_SIP_1X3_IOUT2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16823630@CONN.HEADER-3PIN_INLINE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16823630@conn.\header-3pin_inline.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16823630@conn.\header-3pin_inline.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,350)',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_VOUT2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2035291@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2035291@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2035291@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,330)',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_PROG':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16793848@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16793848@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16793848@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,330)',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 1X2_2 PIN 100MIL SPACE_IR_JUMPER_1X2_100MIL_EN1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2064024@CONN.HEADER 1X2_2 PIN 100MIL SPACE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2064024@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2064024@conn.\header 1x2_2 pin 100mil space.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,200)',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 1X2_2 PIN 100MIL POLARIZ_IR_JUMPER_1X2_100MIL_POL_IOUT1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2065023@CONN.HEADER 1X2_2 PIN 100MIL POLARIZ.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2065023@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2065023@conn.\header 1x2_2 pin 100mil polariz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(145,210)',
+ SECTION='';
+
+PART_NAME
+ L102 'INDUCTOR-GENERIC_ODB_IND_59PR65_3P8X3P8MM_157_DISCRETE_65NH_FP0404R1-R065-R':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16832167@INDUCTORS.INDUCTOR-GENERIC_ODB.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16832167@inductors.\inductor-generic_odb.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16832167@inductors.\inductor-generic_odb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(447,511)',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784927@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784927@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784927@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,100)',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR-0402-1/16W-0.1%-SMALL_IR_R0402_1K, 0.5%':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16801547@SMD_RESISTOR.RESISTOR-0402-1/16W-0.1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16801547@smd_resistor.\resistor-0402-1/16w-0.1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16801547@smd_resistor.\resistor-0402-1/16w-0.1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,410)',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1888007@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1888007@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1888007@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,620)',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887617@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887617@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887617@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,680)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784294@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784294@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784294@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,120)',
+ SECTION='';
+
+PART_NAME
+ R2074 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_10':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046428@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046428@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046428@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,690)',
+ SECTION='';
+
+PART_NAME
+ R2075 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046522@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046522@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046522@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(105,650)',
+ SECTION='';
+
+PART_NAME
+ R2076 'RESISTOR-0603-1/10W-5%-BIG_IR_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2071895@SMD_RESISTOR.RESISTOR-0603-1/10W-5%-BIG.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2071895@smd_resistor.\resistor-0603-1/10w-5%-big.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2071895@smd_resistor.\resistor-0603-1/10w-5%-big.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(795,60)',
+ SECTION='';
+
+PART_NAME
+ R2077 'RESISTOR-0603-1/10W-5%-BIG_IR_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2071502@SMD_RESISTOR.RESISTOR-0603-1/10W-5%-BIG.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2071502@smd_resistor.\resistor-0603-1/10w-5%-big.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2071502@smd_resistor.\resistor-0603-1/10w-5%-big.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(795,335)',
+ SECTION='';
+
+PART_NAME
+ R2078 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_845':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16793856@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16793856@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16793856@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,340)',
+ SECTION='';
+
+PART_NAME
+ R2079 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16816042@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16816042@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16816042@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,440)',
+ SECTION='';
+
+PART_NAME
+ R2080 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16816064@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16816064@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16816064@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,490)',
+ SECTION='';
+
+PART_NAME
+ R2081 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16817197@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16817197@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16817197@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(835,160)',
+ SECTION='';
+
+PART_NAME
+ R2082 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16817237@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16817237@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16817237@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(835,210)',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_604':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889233@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889233@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889233@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,385)',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061337@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061337@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061337@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1025,160)',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061437@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061437@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061437@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1025,210)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784963@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784963@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784963@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,200)',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR-0402-1/16W-0.1%-SMALL_IR_R0402_1K, 0.5%':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16801563@SMD_RESISTOR.RESISTOR-0402-1/16W-0.1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16801563@smd_resistor.\resistor-0402-1/16w-0.1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16801563@smd_resistor.\resistor-0402-1/16w-0.1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,470)',
+ SECTION='';
+
+PART_NAME
+ R38 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061585@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061585@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061585@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1025,440)',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR-0402-1/16W-1%-SMALL_IR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2061685@SMD_RESISTOR.RESISTOR-0402-1/16W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2061685@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2061685@smd_resistor.\resistor-0402-1/16w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1025,490)',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1568486@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1568486@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1568486@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,220)',
+ SECTION='';
+
+PART_NAME
+ R40 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2032396@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2032396@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2032396@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,180)',
+ SECTION='';
+
+PART_NAME
+ R41 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2032449@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2032449@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2032449@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,160)',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_604':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2042611@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2042611@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2042611@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,145)',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046260@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046260@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046260@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(105,470)',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_110':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887197@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887197@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887197@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,330)',
+ SECTION='';
+
+PART_NAME
+ R50 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_10':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046306@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046306@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046306@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,510)',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_110':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784480@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784480@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784480@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,320)',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR-0603-1/10W-1%-SMALL_IR_R0603_54.9':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784408@SMD_RESISTOR.RESISTOR-0603-1/10W-1%-SMALL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784408@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784408@smd_resistor.\resistor-0603-1/10w-1%-small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,330)',
+ SECTION='';
+
+PART_NAME
+ RS5 'CST0612-FC-R0005-1W-1%_IR_SMR0612_4PIN_0.5M-1W':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2073814@SMD_RESISTOR.CST0612-FC-R0005-1W-1%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2073814@smd_resistor.\cst0612-fc-r0005-1w-1%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2073814@smd_resistor.\cst0612-fc-r0005-1w-1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,130)',
+ SECTION='';
+
+PART_NAME
+ RS6 'CST0612-FC-R0005-1W-1%_IR_SMR0612_4PIN_0.5M-1W':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2074084@SMD_RESISTOR.CST0612-FC-R0005-1W-1%.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2074084@smd_resistor.\cst0612-fc-r0005-1w-1%.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2074084@smd_resistor.\cst0612-fc-r0005-1w-1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,410)',
+ SECTION='';
+
+PART_NAME
+ SW8 'SW_TOGGLE_DIP_4POS_IR_SW_4POS_T-DIP_4 POS TOGGLE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046376@SWITCH.SW_TOGGLE_DIP_4POS.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046376@switch.\sw_toggle_dip_4pos.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046376@switch.\sw_toggle_dip_4pos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,580)',
+ SECTION='';
+
+PART_NAME
+ TB1 'TERM BLOCK 1 PIN-KEYSTONE_IR_TB_1_0_TERM BLOCK 1 PIN-KEYSTONE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889025@CONN.TERM BLOCK 1 PIN-KEYSTONE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889025@conn.\term block 1 pin-keystone.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889025@conn.\term block 1 pin-keystone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,50)',
+ SECTION='';
+
+PART_NAME
+ TB2 'TERM BLOCK 1 PIN-KEYSTONE_IR_TB_1_0_TERM BLOCK 1 PIN-KEYSTONE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889293@CONN.TERM BLOCK 1 PIN-KEYSTONE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889293@conn.\term block 1 pin-keystone.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889293@conn.\term block 1 pin-keystone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,115)',
+ SECTION='';
+
+PART_NAME
+ TB3 'TERM BLOCK 1 PIN-KEYSTONE_IR_TB_1_0_TERM BLOCK 1 PIN-KEYSTONE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889081@CONN.TERM BLOCK 1 PIN-KEYSTONE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889081@conn.\term block 1 pin-keystone.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889081@conn.\term block 1 pin-keystone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,280)',
+ SECTION='';
+
+PART_NAME
+ TB4 'TERM BLOCK 1 PIN-KEYSTONE_IR_TB_1_0_TERM BLOCK 1 PIN-KEYSTONE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889175@CONN.TERM BLOCK 1 PIN-KEYSTONE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889175@conn.\term block 1 pin-keystone.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889175@conn.\term block 1 pin-keystone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,380)',
+ SECTION='';
+
+PART_NAME
+ TB5 'TERM BLOCK 1 PIN-KEYSTONE_IR_TB_1_0_TERM BLOCK 1 PIN-KEYSTONE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2035227@CONN.TERM BLOCK 1 PIN-KEYSTONE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2035227@conn.\term block 1 pin-keystone.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2035227@conn.\term block 1 pin-keystone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,280)',
+ SECTION='';
+
+PART_NAME
+ TB6 'TERM BLOCK 1 PIN-KEYSTONE_IR_TB_1_0_TERM BLOCK 1 PIN-KEYSTONE':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2035311@CONN.TERM BLOCK 1 PIN-KEYSTONE.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2035311@conn.\term block 1 pin-keystone.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins2035311@conn.\term block 1 pin-keystone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,380)',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST_POINT-V1054_IR_V1054_ND_I2C_ALERT':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887253@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887253@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887253@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,180)',
+ SECTION='';
+
+PART_NAME
+ TP104 'TEST_POINT-V1054_IR_V1054_ND_T_BOARD':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1973762@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1973762@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1973762@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(135,895)',
+ SECTION='';
+
+PART_NAME
+ TP105 'TEST_POINT-V1054_IR_V1054_ND_T_BOARD_OS':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1973802@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1973802@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1973802@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(265,785)',
+ SECTION='';
+
+PART_NAME
+ TP106 'TEST_POINT-V1054_IR_V1054_ND_FAN_PWM':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2011211@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2011211@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2011211@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,570)',
+ SECTION='';
+
+PART_NAME
+ TP107 'TEST_POINT-V1054_IR_V1054_ND_FAN_TACH':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2011233@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2011233@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2011233@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,600)',
+ SECTION='';
+
+PART_NAME
+ TP108 'TEST_POINT-V1054_IR_V1054_ND_PUMP_PWM':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2011255@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2011255@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2011255@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,570)',
+ SECTION='';
+
+PART_NAME
+ TP109 'TEST_POINT-V1054_IR_V1054_ND_PUMP_TACH':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2011277@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2011277@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2011277@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,600)',
+ SECTION='';
+
+PART_NAME
+ TP111 'TEST_POINT-V1054_IR_V1054_ND_TOUT2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2069198@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2069198@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins2069198@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(435,310)',
+ SECTION='';
+
+PART_NAME
+ TP13 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887757@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887757@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887757@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,460)',
+ SECTION='';
+
+PART_NAME
+ TP14 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887237@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887237@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887237@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,460)',
+ SECTION='';
+
+PART_NAME
+ TP15 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887931@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887931@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887931@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,460)',
+ SECTION='';
+
+PART_NAME
+ TP16 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784947@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784947@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784947@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,460)',
+ SECTION='';
+
+PART_NAME
+ TP176 'TEST_POINT-V1054_IR_V1054_ND_VR_EN2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046546@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046546@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046546@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(75,660)',
+ SECTION='';
+
+PART_NAME
+ TP177 'TEST_POINT-V1054_IR_V1054_ND_IO_VIN_SENSE_K30C/M':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16791474@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16791474@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16791474@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(629,567)',
+ SECTION='';
+
+PART_NAME
+ TP178 'TEST_POINT-V1054_IR_V1054_ND_PWM2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16799720@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16799720@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16799720@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(665,50)',
+ SECTION='';
+
+PART_NAME
+ TP179 'TEST_POINT-V1054_IR_V1054_ND_PWM1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16799727@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16799727@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16799727@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(815,50)',
+ SECTION='';
+
+PART_NAME
+ TP18 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1889117@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1889117@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page2_ins1889117@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,40)',
+ SECTION='';
+
+PART_NAME
+ TP180 'TEST_POINT_35R_SMD_IR_TEST_POINT_35R_SMD_IO_FLOAT PAD-2_TEST_POINT_35R_SMD':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16808665@CONN.TEST_POINT_35R_SMD.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16808665@conn.\test_point_35r_smd.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16808665@conn.\test_point_35r_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,890)',
+ SECTION='';
+
+PART_NAME
+ TP181 'TEST_POINT-V1054_IR_V1054_ND_FLOAT PAD 2':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16808683@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16808683@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16808683@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,880)',
+ SECTION='';
+
+PART_NAME
+ TP182 'TEST_POINT-V1054_IR_V1054_ND_FLOAT PAD 1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16808699@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16808699@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16808699@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,930)',
+ SECTION='';
+
+PART_NAME
+ TP183 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16822939@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16822939@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16822939@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,610)',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST_POINT-V1054_IR_V1054_ND_CAT_FLT':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1888027@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1888027@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1888027@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,180)',
+ SECTION='';
+
+PART_NAME
+ TP20 'TEST_POINT-V1054_IR_V1054_ND_IO_3V3_K30C/M':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16791520@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16791520@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16791520@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,640)',
+ SECTION='';
+
+PART_NAME
+ TP22 'TEST_POINT-V1054_IR_V1054_ND_IO_TOUT1_K30C/M':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16791467@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16791467@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16791467@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,550)',
+ SECTION='';
+
+PART_NAME
+ TP23 'TEST_POINT-V1054_IR_V1054_ND_IO_TOUT2_K30C/M':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16791430@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16791430@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins16791430@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,480)',
+ SECTION='';
+
+PART_NAME
+ TP37 'TEST_POINT-V1054_IR_V1054_ND_VR_EN1':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS2046276@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins2046276@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins2046276@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(65,480)',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784448@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784448@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784448@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,180)',
+ SECTION='';
+
+PART_NAME
+ TP40 'TEST_POINT_35R_SMD_IR_TEST_POINT_35R_SMD_IO_FLOAT PAD-1_TEST_POINT_35R_SMD':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16808646@CONN.TEST_POINT_35R_SMD.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16808646@conn.\test_point_35r_smd.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16808646@conn.\test_point_35r_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,940)',
+ SECTION='';
+
+PART_NAME
+ TP5 'TEST_POINT-V1054_IR_V1054_ND_VCC':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887601@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887601@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887601@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,180)',
+ SECTION='';
+
+PART_NAME
+ TP6 'TEST_POINT-V1054_IR_V1054_ND_3.3V':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887149@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887149@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887149@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,610)',
+ SECTION='';
+
+PART_NAME
+ TP7 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1784314@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1784314@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1784314@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,610)',
+ SECTION='';
+
+PART_NAME
+ TP9 'TEST_POINT-V1054_IR_V1054_ND_GND':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1887165@CONN.TEST_POINT-V1054.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1887165@conn.\test_point-v1054.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page1_ins1887165@conn.\test_point-v1054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,610)',
+ SECTION='';
+
+PART_NAME
+ U15 'TDM22545T DUAL-PHASE-TLVR-MODUL_TDM22545T_10X9MM_IC_TDM22545T_LGA72_10X9MM_TDM22545T':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS16846803@IFX_IC.TDM22545T DUAL-PHASE-TLVR-MODUL.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins16846803@ifx_ic.\tdm22545t dual-phase-tlvr-modul.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins16846803@ifx_ic.\tdm22545t dual-phase-tlvr-modul.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(495,100)',
+ SECTION='';
+
+PART_NAME
+ U6 'LM26-SOT23-5_50C_IR_SOT23-05_LM26':;
+
+SECTION_NUMBER 1
+ '@DB0391 REV3 LGA DUALPHASE MODULE TWO LOOPS.SCHEMATIC1(SCH_1):INS1973001@IC.LM26-SOT23-5_50C.NORMAL(CHIPS)':
+ C_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):ins1973001@ic.\lm26-sot23-5_50c.normal\(chips)',
+ P_PATH='@\db0391 rev3 lga dualphase module two loops\.schematic1(sch_1):page3_ins1973001@ic.\lm26-sot23-5_50c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(165,810)',
+ SECTION='';
+
+END.
